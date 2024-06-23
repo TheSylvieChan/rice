@@ -5,5 +5,6 @@ might update in the future if i move to something else
 ## disclaimer
 my polybar setup is a modified version of the "blocks" theme by https://github.com/adi1090x/polybar-themes
 
-# screenshots
+## screenshots
+nordic
 ![desktop](screenshots/my-nord.png)
